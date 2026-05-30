@@ -1,0 +1,1 @@
+//currently just go up the factor divide by 2 til cant 3,5,7 so on add all up
